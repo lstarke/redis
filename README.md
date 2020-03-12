@@ -1,6 +1,6 @@
 ## Atividade Prática – Redis
 
-- Rodas todas as celulas
+- Rodar todas as celulas
 - A ultima celula é o jogo, precisa rodar mais de uma vez para acumular a pontuação
 
 obs: foi usado redis rodando em docker
